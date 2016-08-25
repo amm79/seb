@@ -1,0 +1,862 @@
+Initialize engine version: 4.5.3f3 (fca41a4fabea)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K600 (ID=0xffa)
+    Vendor:   NVIDIA
+    VRAM:     972 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\amm79\Desktop\margame\hope10000_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\amm79\Desktop\margame\hope10000_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\amm79\Desktop\margame\hope10000_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\amm79\Desktop\margame\hope10000_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\amm79\Desktop\margame\hope10000_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\amm79\Desktop\margame\hope10000_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\amm79\Desktop\margame\hope10000_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\amm79\Desktop\margame\hope10000_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\amm79\Desktop\margame\hope10000_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\amm79\Desktop\margame\hope10000_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.107 seconds
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cameraFollow.Update () [0x0000b] in C:\Users\amm79\Desktop\margame\Assets\Scripts\cameraFollow.cs:45 
+ 
+(Filename: C Line: 0)
+
